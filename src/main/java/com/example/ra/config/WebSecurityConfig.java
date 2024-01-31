@@ -1,4 +1,4 @@
-package com.ra.auth.config;
+package com.example.ra.config;
 
 import com.example.ra.security.jwt.JwtEntryPoint;
 import com.example.ra.security.jwt.JwtTokenFilter;

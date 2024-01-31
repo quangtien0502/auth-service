@@ -1,4 +1,4 @@
-package com.ra.auth.security.jwt;
+package com.example.ra.security.jwt;
 
 import com.example.ra.security.user_principle.UserDetailService;
 import jakarta.servlet.FilterChain;

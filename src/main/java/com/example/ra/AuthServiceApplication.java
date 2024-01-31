@@ -1,4 +1,4 @@
-package com.ra.auth;
+package com.example.ra;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

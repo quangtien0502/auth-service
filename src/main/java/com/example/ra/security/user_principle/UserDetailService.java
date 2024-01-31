@@ -1,4 +1,4 @@
-package com.ra.auth.security.user_principle;
+package com.example.ra.security.user_principle;
 
 import com.example.ra.model.entity.User;
 import com.example.ra.repository.UserRepository;
