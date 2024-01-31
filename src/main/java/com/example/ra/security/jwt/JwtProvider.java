@@ -15,7 +15,7 @@ public class JwtProvider {
     private Long EXPIRED;
     @Value("${secret_key}")
     private String SECRET_KEY;
-
+    //Check Change in git
     private final Logger logger= LoggerFactory.getLogger(JwtEntryPoint.class);
     public String generateToken(UserPrinciple userPrinciple){
         String roleName=userPrinciple.getAuthorities().stream().toList().get(0).toString();
